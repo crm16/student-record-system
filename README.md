@@ -1,6 +1,6 @@
 # 🎓 Student Record System
 
-A Java-based console application for managing student academic records. This project allows users to input student details, calculate average scores, assign grades, and identify top performers—all presented in a clean, tabular format.
+A Java-based console application for managing academic records of students. This project allows users to input student details, calculate average scores, assign grades, and identify top performers—all presented in a clean, tabular format.
 
 ## 📌 Features
 
@@ -62,10 +62,9 @@ student-record-system/
 - Build a GUI version using JavaFX or Swing
   
 ## 🙋‍♂️ Author
-CHANDRARIT  
+[CHANDRARIT](https://github.com/crm16)  
 B.Tech in Computer Science and Engineering  
 Netaji Subhash Engineering College, Kolkata  
-[🔗 Github Profile](https://github.com/crm16)  
 
 ## 📄 License
 This project is open-source.
