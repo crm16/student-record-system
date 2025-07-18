@@ -47,7 +47,7 @@ A Java-based console application for managing student academic records. This pro
    
 4. Run the program:
    ```bash
-   java StudentDataBaseManagement
+   java StudentDataBaseManagement.java
 
 ## 📂 File Structure
 <pre>
