@@ -58,7 +58,8 @@ student-record-system/
 └── README.md  
 </pre>  
 
-## 📈 Future Enhancements- Refactor using Object-Oriented Programming (OOP)
+## 📈 Future Enhancements
+- Refactor using Object-Oriented Programming (OOP)
 - Add sorting and searching functionality
 - Export records to CSV or text files
 - Build a GUI version using JavaFX or Swing
