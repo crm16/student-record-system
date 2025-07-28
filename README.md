@@ -2,6 +2,8 @@
 
 A Java-based console application for managing academic records of students. This project allows users to input student details, calculate average scores, assign grades, and identify top performers—all presented in a clean, tabular format.
 
+---
+
 ## 📌 Features
 
 - Input multiple student records with subject-wise marks
@@ -68,3 +70,8 @@ Netaji Subhash Engineering College, Kolkata
 
 ## 📄 License
 This project is open-source.
+
+## 📬 Feedback
+
+Questions or suggestions? Feel free to connect or fork this repo and build on it!
+
